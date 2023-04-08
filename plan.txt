@@ -1,0 +1,8 @@
+Title: BPT (Browser based Presentation)
+Description: A robust js engine to run presentation in online as well as offline mode. Supports multiple platforms. A single page html file with js engine embeded.
+
+Technologies:
+
+Frontend: React, JS, HTML, CSS.
+Backend: Python, Java(optional).
+Frameworks: React, Django(Backend).
